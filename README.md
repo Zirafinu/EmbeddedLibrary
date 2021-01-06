@@ -1,0 +1,2 @@
+# EmbeddedLibrary
+Yet another HAL
