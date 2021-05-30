@@ -1,9 +1,11 @@
-[submodule "remoteProjects/gsl"]
+[submodule "gsl"]
 	path = remoteProjects/gsl
 	url = https://github.com/microsoft/GSL.git
-[submodule "remoteProjects/doctest"]
+
+[submodule "doctest"]
 	path = remoteProjects/doctest
 	url = https://github.com/onqtam/doctest.git
-[submodule "remoteProjects/UtilityLibrary"]
+	
+[submodule "UtilityLibrary"]
 	path = remoteProjects/UtilityLibrary
 	url = https://github.com/Zirafinu/UtilityLibrary.git
